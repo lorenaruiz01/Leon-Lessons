@@ -9,9 +9,10 @@
 
 //create a function that divides three numbers and console logs the quotient
     function dividesThreeNums (num1, num2, num3){
-        console.log(num3 / num2 / num1)
+        console.log(num1 / num2 / num3)
     }
 
+    dividesThreeNums(12,4,3)
       
 //create a function that multiplys three numbers and returns the product
     function multiThreeNums (num1, num2, num3)
