@@ -16,9 +16,9 @@
       
 //create a function that multiplys three numbers and returns the product
     function multiThreeNums (num1, num2, num3){
-        
+        return(num1 * num2 * num3)
     }
-    product = num1 * num2 * num3
+    product = 
     return(product)
 
 
