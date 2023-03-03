@@ -6,8 +6,11 @@
 
 
 //create a function that divides three numbers and console logs the quotient
+    function dividesThreeNums (num1, num2, num3)
+    quotient = num3 / num2 / num 1
+    console.log(quotient)
 
-
+      
 //create a function that multiplys three numbers and returns the product
 
 
