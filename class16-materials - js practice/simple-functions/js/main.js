@@ -1,9 +1,15 @@
 //---Easy
 //create a function that subtracts two numbers and alerts the difference
+    function subTwoNums (num1, num2)
+    difference = num2, num1    
+    alert(difference)
+
 
 //create a function that divides three numbers and console logs the quotient
 
+
 //create a function that multiplys three numbers and returns the product
+
 
 //---Medium
 //create a function that takes in three numbers. Add the first two numbers and return the remainder of dividing the sum of the first two numbers by the third number
