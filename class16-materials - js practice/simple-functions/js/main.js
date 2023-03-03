@@ -19,6 +19,7 @@
         return(num1 * num2 * num3)
     }
 
+    multiThreeNums(2,4,6)
 
 //---Medium
 //create a function that takes in three numbers. Add the first two numbers and return the remainder of dividing the sum of the first two numbers by the third number
