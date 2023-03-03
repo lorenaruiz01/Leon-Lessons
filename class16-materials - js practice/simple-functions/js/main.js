@@ -4,6 +4,7 @@
        alert(num1-num2) 
     }
    
+    subTwoNums(50,30)
 
 
 //create a function that divides three numbers and console logs the quotient
