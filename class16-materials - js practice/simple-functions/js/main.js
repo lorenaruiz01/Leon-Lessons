@@ -1,6 +1,8 @@
 //---Easy
 //create a function that subtracts two numbers and alerts the difference
-    function subTwoNums (num1, num2)
+    function subTwoNums (num1, num2){
+        
+    }
     difference = num2, num1    
     alert(difference)
 
