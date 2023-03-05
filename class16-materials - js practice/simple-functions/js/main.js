@@ -16,7 +16,7 @@
       
 //create a function that multiplys three numbers and returns the product
     function multiThreeNums (num1, num2, num3){
-        return(num1 * num2 * num3)
+        return num1 * num2 * num3  //don't use parenthesis here. return is not a function so it does not use parenthesis. what return does is return the value that is being called multiThreeNums(2,4,6) back into itself, where it was called. once it's called, it disappears. so it is not alerted or printed to the console.
     }
 
     multiThreeNums(2,4,6)
