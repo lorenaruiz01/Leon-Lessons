@@ -21,6 +21,11 @@
 
     multiThreeNums(2,4,6)
 
+        //since the returned product is not alerted or printed to the console. what we can do, is store the multiThreeNums function in a variable and alert the product: 
+        //  let product = multiThreeNums(2,4,6)
+        //  alert(product)
+        //  (can also console log the product)
+
 //---Medium
 //create a function that takes in three numbers. Add the first two numbers and return the remainder of dividing the sum of the first two numbers by the third number
 
