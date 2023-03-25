@@ -14,7 +14,7 @@
     return(mathyMaths)
 
 // Create a function that takes in 2 numbers. Console log the first number to the power of the second. Call the function.
-    function 
+    function twoNums
 
 // *Conditionals*
 // Create a function that takes in a boolean and a string. If the boolean is true, alert the string. If the boolean is false, console log the string
