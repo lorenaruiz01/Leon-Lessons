@@ -10,7 +10,9 @@
 // *Functions*
 // Create a function that takes in 4 numbers and returns the sum of the first 3 numbers divided by the fourth. Return the result. Call the function.
     let mathyMaths (num1, num2, num3, num4)
-    function mathyMaths((num1 + num2 + num3)/num4)
+    function mathyMaths((num1 + num2 + num3)/num4){
+        
+    }
     return(mathyMaths)
 
 // Create a function that takes in 2 numbers. Console log the first number to the power of the second. Call the function.
