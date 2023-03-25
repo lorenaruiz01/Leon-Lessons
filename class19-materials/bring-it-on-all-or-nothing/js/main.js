@@ -17,7 +17,7 @@
     function twoNums(num1, num2){
         console.log(num1^num2)
     }
-    
+    alert(4, 2)
     
 
 // *Conditionals*
