@@ -15,7 +15,9 @@
 
 // Create a function that takes in 2 numbers. Console log the first number to the power of the second. Call the function.
     function twoNums(num1, num2){
-        console.log
+        console.log(num1^num2)
+    }
+    
     
 
 // *Conditionals*
