@@ -3,8 +3,8 @@
     let trueOrFalseVar = true
     alert(trueOrFalseVar)
 // Declare a variable, reassign it to your favorite color, and console log the value
-    let myFavColor 
-    myFavColor = "burgundy"
+    let myFavColor = "purple"
+    myFavColor = ""
     console.log(myFavColor)
 
 // *Functions*
