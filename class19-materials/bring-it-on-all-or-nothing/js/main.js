@@ -5,7 +5,7 @@
 // Declare a variable, reassign it to your favorite color, and console log the value
     let myFavColor = "purple"
     myFavColor = "pink"
-    console.log(myFavColor)
+    console.log()
 
 // *Functions*
 // Create a function that takes in 4 numbers and returns the sum of the first 3 numbers divided by the fourth. Return the result. Call the function.
