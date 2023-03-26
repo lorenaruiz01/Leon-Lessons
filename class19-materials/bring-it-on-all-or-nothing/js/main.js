@@ -12,9 +12,7 @@
     function sumThreeAndDivide(num1, num2, num3, num4){
         return((num1 + num2 + num3) / num4);
     }
-    function mathyMaths((num1 + num2 + num3)/num4){
-        return(mathyMaths)
-    }
+    
     alert(mathyMaths)
 
 // Create a function that takes in 2 numbers. Console log the first number to the power of the second. Call the function.
