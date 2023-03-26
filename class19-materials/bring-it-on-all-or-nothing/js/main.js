@@ -4,7 +4,7 @@
     alert(trueOrFalseVar)
 // Declare a variable, reassign it to your favorite color, and console log the value
     let myFavColor = "purple"
-    myFavColor = ""
+    myFavColor = "pink"
     console.log(myFavColor)
 
 // *Functions*
