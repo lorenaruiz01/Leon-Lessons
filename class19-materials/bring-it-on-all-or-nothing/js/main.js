@@ -19,7 +19,7 @@
     function twoNums(num1, num2){
         console.log(math.pow(num1, num2))
     }
-    alert(4, 2)
+    twoNums(2, 3)
     
 
 // *Conditionals*
