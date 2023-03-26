@@ -27,9 +27,10 @@
     function alertOrLog(b, str){
         if(b){
             alert(str);
+        }else {
+            console.log(str);
         }
         }
-    } 
     
     takesInABooleanAndString (10>9, "ten is greater than 9"){
         if 10 > 9;
