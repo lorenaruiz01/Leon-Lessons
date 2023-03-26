@@ -1,6 +1,6 @@
 // *Variables*
 // Declare a variable, assign it a boolean, and alert the value
-    let trueOrFalseVar = (10>9)
+    let trueOrFalseVar = true
     alert(Boolean(trueOrFalseVar))
 // Declare a variable, reassign it to your favorite color, and console log the value
     let myFavColor 
