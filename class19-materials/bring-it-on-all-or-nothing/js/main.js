@@ -25,7 +25,8 @@
 // *Conditionals*
 // Create a function that takes in a boolean and a string. If the boolean is true, alert the string. If the boolean is false, console log the string
     function alertOrLog(b, str){
-       
+        if(b)
+    } 
     
     takesInABooleanAndString (10>9, "ten is greater than 9"){
         if 10 > 9;
