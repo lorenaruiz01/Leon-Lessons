@@ -5,7 +5,7 @@
         document.querySelector('h2').innerText += movieTitles[i]
     }
 
-//Create an array of numbers. Loop through the array and three to each number and replace the old number.
+//Create an array of numbers. Loop through the array and add three to each number and replace the old number.
     let arrayOfNumbers = [1, 2, 3, 4]
     arrayOfNumbers[]
 
