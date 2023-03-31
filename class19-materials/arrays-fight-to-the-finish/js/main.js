@@ -14,4 +14,4 @@
 
     console.log(arrayOfNumbers)
 
-//Find the average of all the numbers from question three
+//Find the average of all the numbers from question two
