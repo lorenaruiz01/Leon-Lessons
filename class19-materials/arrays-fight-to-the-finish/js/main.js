@@ -6,7 +6,10 @@
     }
 
 //Create an array of numbers. Loop through the array and add three to each number and replace the old number.
-    let arrayOfNumbers = [1, 2, 3, 4]
-    arrayOfNumbers[]
+    let arrayOfNumbers = [10, 20, 30, 40]
+
+    arrayOfNumbers.forEach( (elem, idx, arr) => {
+        arrayOfNumbers[idx] = elem + 3
+    })
 
 //Find the average of all the numbers from question three
