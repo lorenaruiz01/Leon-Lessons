@@ -2,7 +2,7 @@
     let movieTitles = ["movie1", "movie2", "movie3"]
 
     for (let i = 0; i < movieTitles.length; i++){
-
+        document.querySelector('h2').innerText += movieTitles[i]
     }
 
 //Create an array of numbers. Loop through the array and three to each number and replace the old number.
