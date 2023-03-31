@@ -1,4 +1,4 @@
-//Create an array of movie titles. Loop through the array and each element to the h2.
+//Create an array of movie titles. Loop through the array and add each element to the h2.
     let movieTitles = ['movie1', 'movie2', 'movie3']
 
 
@@ -8,4 +8,3 @@
     arrayOfNumbers[]
 
 //Find the average of all the numbers from question three
-    
