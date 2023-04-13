@@ -1,5 +1,5 @@
 document.getElementById('purple').onclick = partyPurple
-
+document.getElementById('green').onclick = partyGreen
 
 function partyPurple() {
   document.querySelector('body').style.background = 'rgba(241,63,247,1)'
