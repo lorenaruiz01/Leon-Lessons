@@ -19,7 +19,7 @@ function partyBlue() {
   document.querySelector('body').style.color = 'white'
 }
 
-function partyPink {
+function partyPink() {
   document.querySelector('body').style.backgroundColor = 'hotpink'
   document.querySelector('body').style.color = 'white'
 }
