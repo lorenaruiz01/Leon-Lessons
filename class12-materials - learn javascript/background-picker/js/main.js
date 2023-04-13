@@ -19,5 +19,5 @@ function partyBlue(){
 }
 
 function partyPink() {
-  
+  document,querySelector('body').style.background = 'hotpink'
 }
