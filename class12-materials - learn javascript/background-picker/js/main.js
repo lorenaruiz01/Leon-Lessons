@@ -21,5 +21,5 @@ function partyBlue() {
 
 function partyPink {
   document.querySelector('body').style.backgroundColor = 'hotpink'
-  
+  document.querySelector('body').style.color = 'white'
 }
