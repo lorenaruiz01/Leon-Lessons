@@ -7,5 +7,5 @@ function partyPurple() {
 }
 
 function partyGreen() {
-  
+  document.querySelector('body').style.background = 'rgba(0,253,81,1)'
 }
