@@ -12,3 +12,6 @@ function partyGreen() {
   document.querySelector('h1').style.color = 'white'
 }
 
+function partyBlue(){
+  
+}
