@@ -23,3 +23,5 @@ let name
 let admin 
 
 name = "John"
+
+name = admin
