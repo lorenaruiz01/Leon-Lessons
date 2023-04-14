@@ -50,3 +50,20 @@ function check() {
 
 
 // Uppercase const?
+//          Examine the following code:
+
+              const birthday = '18.04.1982';
+
+              const age = someCode(birthday);
+
+//          Here we have a constant birthday for the date, and also the age constant.
+
+//          The age is calculated from birthday using someCode(), which means a function call that we didn’t explain yet    (we will soon!), but the details don’t matter here, the point is that age is calculated somehow based on the birthday.
+
+//          Would it be right to use upper case for birthday? For age? Or even for both?
+
+              const BIRTHDAY = '18.04.1982'; // make birthday uppercase? 
+                  YES  // birth date is hard-coded (does not change)
+
+              const AGE = someCode(BIRTHDAY); // make age uppercase?
+                  NO  //the age changes based on the calculation that occurs in function someCode()
