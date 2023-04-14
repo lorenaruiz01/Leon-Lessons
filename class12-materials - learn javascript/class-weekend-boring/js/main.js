@@ -18,6 +18,8 @@ function check() {
   // JAVASCRIPT.INFO TASKS
 
   // working with variables
-let admin
 let name 
 
+let admin 
+
+name = "John"
