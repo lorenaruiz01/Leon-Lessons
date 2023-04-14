@@ -26,4 +26,5 @@ name = "John"
 
 name = admin
 
-alert (admin)
+alert (admin) 
+    //  (must output “John”)
