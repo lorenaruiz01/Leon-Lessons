@@ -25,3 +25,5 @@ let admin
 name = "John"
 
 name = admin
+
+alert (admin)
