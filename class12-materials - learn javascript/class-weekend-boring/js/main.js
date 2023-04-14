@@ -5,6 +5,12 @@ function check() {
   const day = document.querySelector('#day').value
 
   //Conditionals go here
+  if ( day == 'tuesday' || day == 'thursdays'){
+    alert('it\'s class day')
+  }else if( day == 'saturday' || day == 'sunday'){
+    alert ('it is the weekend')
+  }else {
+    alert ('boring day')
+  }
+  }
 
-
-}
