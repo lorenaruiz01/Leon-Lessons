@@ -17,7 +17,7 @@ function check() {
 
   // JAVASCRIPT.INFO TASKS
 
-//  Working With Variables:
+//  Working With Variables
 //          Declare two variables: admin and name.
               let name 
               let admin 
@@ -38,4 +38,4 @@ function check() {
 
 
 
-// giving the right name
+//  Giving The Right Name
