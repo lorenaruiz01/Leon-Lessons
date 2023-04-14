@@ -14,3 +14,8 @@ function check() {
   }
   }
 
+
+  // JAVASCRIPT.INFO TASKS
+
+  // working with variables
+let 
