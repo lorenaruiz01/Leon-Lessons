@@ -38,3 +38,7 @@ name = "John";
 admin = name;
 
 alert( admin ); // "John"
+
+
+
+// giving the right name
