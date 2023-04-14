@@ -17,27 +17,24 @@ function check() {
 
   // JAVASCRIPT.INFO TASKS
 
-  // working with variables
-let name 
+//  Working With Variables:
+//          Declare two variables: admin and name.
+              let name 
+              let admin 
+//          Assign the value "John" to name.
+              name = "John"
+//          Copy the value from name to admin.
+              name = admin
+//          Show the value of admin using alert (must output “John”).
+              alert (admin) 
+//  Solution:
+            let admin, name; // can declare two variables at once
 
-let admin 
+            name = "John";
 
-name = "John"
+            admin = name;
 
-name = admin
-
-alert (admin) 
-    //  (must output “John”)
-
-// solution:
-
-let admin, name; // can declare two variables at once
-
-name = "John";
-
-admin = name;
-
-alert( admin ); // "John"
+            alert( admin ); // "John"
 
 
 
