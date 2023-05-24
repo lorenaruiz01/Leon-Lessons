@@ -9,6 +9,8 @@ document.querySelector('#convert').addEventListener('click', convert)
 function convert (){
 // step 2: take value that is in celsius 
    let temp = document.querySelector('#value').value
+// step 3: convert from celsius to farenheit
+    temp = temp * 9/5 + 32
 }
 
 
