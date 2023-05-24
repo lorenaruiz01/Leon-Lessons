@@ -7,8 +7,8 @@ document.querySelector('#convert').addEventListener('click', convert)
 // run convert function
 
 function convert (){
-// step 2: add 32 divide by 
-   
+// step 2: take value that is in celsius 
+   const tempValue = document.querySelector('#value').value
 }
 
 
