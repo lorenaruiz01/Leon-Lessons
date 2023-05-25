@@ -20,6 +20,6 @@ function claireNext(){
 
 function sharleenNext(){
 	andi.classList.add('hidden')
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
+	claire.classList.add('hidden')
 	/*INSERTCODE*/.classList.toggle(/*INSERTCODE*/)
 }
