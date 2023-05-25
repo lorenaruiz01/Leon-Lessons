@@ -9,7 +9,7 @@ document.querySelector('#sharleenNext').addEventListener('click', sharleenNext)
 function andiNext(){
 	claire.classList.add('hidden')
 	sharleen.classList.add('hidden')
-	andi.classList.toggle(/*INSERTCODE*/)
+	andi.classList.toggle('hidden')
 }
 
 function claireNext(){
