@@ -4,7 +4,7 @@ Array.from(contestants).forEach(element => element.addEventListener('click', che
 
 function checkForRose(click){
 	if(click.target.classList.contains('rose')){
-		document.querySelector('#nikki').classList.toggle('hidden')
+		document.querySelector('#nikki').classList.toggle('hiddenadd main.js')
 	}else{
 		alert("Wrong!");
 	}
