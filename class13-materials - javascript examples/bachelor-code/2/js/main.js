@@ -19,7 +19,7 @@ function claireNext(){
 }
 
 function sharleenNext(){
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
+	andi.classList.add('hidden')
 	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
 	/*INSERTCODE*/.classList.toggle(/*INSERTCODE*/)
 }
