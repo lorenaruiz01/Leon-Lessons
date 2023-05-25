@@ -13,7 +13,7 @@ function andiNext(){
 }
 
 function claireNext(){
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
+	andi.classList.add('hidden')
 	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
 	/*INSERTCODE*/.classList.toggle(/*INSERTCODE*/)
 }
