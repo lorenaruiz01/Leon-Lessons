@@ -15,7 +15,7 @@ function andiNext(){
 function claireNext(){
 	andi.classList.add('hidden')
 	sharleen.classList.add('hidden')
-	/*INSERTCODE*/.classList.toggle(/*INSERTCODE*/)
+	claire.classList.toggle('hidden')
 }
 
 function sharleenNext(){
