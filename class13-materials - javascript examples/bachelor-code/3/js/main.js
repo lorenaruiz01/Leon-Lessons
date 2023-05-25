@@ -1,4 +1,4 @@
-const contestants = document.querySelectorAll(/*INSERTCODE*/)
+const contestants = document.querySelectorAll('.contestants')
 
 Array.from(contestants).forEach(element => element.addEventListener('click', checkForRose))
 
